@@ -72,13 +72,3 @@ Install the following libraries via Arduino IDE Library Manager:
 ```
 🌡️ Temp: 28.3°C 😀
 💧 Humi: 55.4%
----
-
-## 🧑‍💻 Author
-
-**Lenka Ganesh (Ecempire7)**
-📷 [Instagram: @Ecempire7](https://instagram.com/ecempire7)
-📺 [YouTube: Ecempire7](https://youtube.com/@Ecempire7)
-
-
-LIKE THIS IS ENGOUGH FOR NEXT TIME ONWARDS
